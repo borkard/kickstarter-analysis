@@ -5,7 +5,7 @@
 ### Purpose
 Testing where this text goes and how images work.
 
-![Theater_Outcomes_vs_Launch](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch](path/to/image_Theater_Outcomes_vs_Launch.png)
 
 ## Analysis and Challenges
 
