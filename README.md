@@ -5,7 +5,7 @@
 ### Purpose
 Testing where this text goes and how images work.
 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/74506380/99890160-61715d00-2c2a-11eb-8b9b-5d22ac3af9e6.png)
 
 ## Analysis and Challenges
 
