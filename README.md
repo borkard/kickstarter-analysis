@@ -3,6 +3,9 @@
 ## Overview of Project
 
 ### Purpose
+Testing where this text goes and how images work.
+
+![image_name](path/to/image_name.png)
 
 ## Analysis and Challenges
 
@@ -15,6 +18,7 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+	From the Outcomes based on Launch Date, it can be concluded that 
 
 - What can you conclude about the Outcomes based on Goals?
 
