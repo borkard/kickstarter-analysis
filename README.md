@@ -9,7 +9,7 @@ Testing where this text goes and how images work.
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/74506380/99890160-61715d00-2c2a-11eb-8b9b-5d22ac3af9e6.png)
+<img width="783" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/74506380/99890399-c9c13e00-2c2c-11eb-8fbf-b45aea13c9e8.png">
 
 ### Analysis of Outcomes Based on Goals
 
