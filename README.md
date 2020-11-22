@@ -1,6 +1,8 @@
 # Kickstarting with Excel
 Kickstarter Excel Analysis File: [Kickstarter_Challenge.xlsx](https://github.com/borkard/kickstarter-analysis/files/5578705/Kickstarter_Challenge.xlsx)
 
+![IMG_1372[67]](https://github.com/[borkard]/[kickstarter-analysis]/blob/[main]/image.jpg?raw=true)
+
 ## Overview of Project
 
 ### Purpose
