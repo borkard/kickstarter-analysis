@@ -14,13 +14,15 @@ Explain how you performed your analysis using images and links to code, as well 
 ### Analysis of Outcomes Based on Launch Date
 Analysis of the Outcomes Based on Launch Date was conducted by creating a pivot table to count the number of theater campaigns per outcome (successful, failed, canceled) by month
 
-<img width="783" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/74506380/99890399-c9c13e00-2c2c-11eb-8fbf-b45aea13c9e8.png">
+![Theater_Outcomes_vs_Launch](https://github.com/borkard/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+
 
 ### Analysis of Outcomes Based on Goals
 
 INSERT ANALYSIS OF OUTCOMES BASED ON GOALS HERE. CHANGE WRITTEN PART OF RESULTS, TOO.
 
-<img width="783" alt="Outcomes_vs_Goal" src="https://user-images.githubusercontent.com/74506380/99890413-e65d7600-2c2c-11eb-8729-1fc6b95e2b02.png">
+![Outcomes_vs_Goals](https://github.com/borkard/kickstarter-analysis/blob/main/Outcomes_vs_Goal.png?raw=true)
+
 
 ### Challenges and Difficulties Encountered
 o	Explain Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
