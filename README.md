@@ -1,7 +1,7 @@
 # Kickstarting with Excel
+Kickstarter Excel Analysis File: [Kickstarter_Challenge.xlsx](https://github.com/borkard/kickstarter-analysis/files/5578705/Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
-[Kickstarter_Challenge.xlsx](https://github.com/borkard/kickstarter-analysis/files/5578705/Kickstarter_Challenge.xlsx)
 
 ### Purpose
 The goal of this challenge was to discover common factors of successful Kickstarter campaigns and to see how campaigns fared in relation to their launch dates and fundraising goals.
