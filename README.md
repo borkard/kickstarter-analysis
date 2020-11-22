@@ -13,7 +13,7 @@ Testing where this text goes and how images work.
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Based on Goal Chart](https://user-images.githubusercontent.com/74506380/99890196-c6c54e00-2c2a-11eb-986b-907e7351c778.png)
+<img width="783" alt="Outcomes_vs_Goal" src="https://user-images.githubusercontent.com/74506380/99890413-e65d7600-2c2c-11eb-8729-1fc6b95e2b02.png">
 
 ### Challenges and Difficulties Encountered
 
