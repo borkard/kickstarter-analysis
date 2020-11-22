@@ -9,10 +9,10 @@ The goal of this challenge was to discover common factors of successful Kickstar
 CHANGE THE ABOVE PURPOSE. FIND OUT MORE FROM TA TOMORROW, BUT MAYBE ALSO INCLUDE INFO ABOUT LOUISE/FEVER/ETC.
 
 ## Analysis and Challenges
+Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 ### Analysis of Outcomes Based on Launch Date
-
-INSERT ANALYSIS OF OUTCOMES BASED ON LAUNCH DATE HERE. CHANGE WRITTEN PART OF RESULTS,TOO.
+Analysis of the Outcomes Based on Launch Date was conducted by creating a pivot table to count the number of theater campaigns per outcome (successful, failed, canceled) by month
 
 <img width="783" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/74506380/99890399-c9c13e00-2c2c-11eb-8fbf-b45aea13c9e8.png">
 
