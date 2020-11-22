@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Testing where this text goes and how images work.
+The goal of this challenge was to discover common factors of successful Kickstarter campaigns and to see how campaigns fared in relation to their launch dates and fundraising goals.
 
 ## Analysis and Challenges
 
