@@ -3,7 +3,7 @@
 ## Overview of Project
 An analysis was performed using Kickstarter data to find trends amongst successful campaigns and to determine how to run a successful Kickstarter campaign to raise money for a play. 
 
-Kickstarter Excel Analysis File: [Kickstarter_Challenge.xlsx](https://github.com/borkard/kickstarter-analysis/files/Kickstarter_Challenge.xlsx)
+**Kickstarter Analysis Excel File:** [Kickstarter_Challenge.xlsx](https://github.com/borkard/kickstarter-analysis/files/Kickstarter_Challenge.xlsx)
 
 ### Purpose
 The goal of this challenge was to discover common factors of successful Kickstarter campaigns and to see how different launch dates and fundraising goals affected the campaigns' outcomes. These insights are used to navigate how to launch a successful Kickstarter to fundraise for a play.
